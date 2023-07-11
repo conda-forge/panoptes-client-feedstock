@@ -1,11 +1,11 @@
-About panoptes-client
-=====================
+About panoptes-client-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/panoptes-client-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/zooniverse/panoptes-python-client
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/panoptes-client-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package is the Python SDK for Panoptes, the platform behind the Zooniverse.
 

@@ -1,4 +1,4 @@
-{% set version = "1.6.0" %}
+{% set version = "1.6.1" %}
 
 package:
   name: panoptes-client
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/p/panoptes-client/panoptes_client-{{ version }}.tar.gz
-  sha256: 03b63e941b54bb6b5940fee5d1fd6bd3c83f5f928f4aa1a403b35e586244dc6d
+  sha256: cbb20d524caf235d5b88a5b8c89a4119d028b3d5561e7358a0122f914976669c
 
 build:
   noarch: python
