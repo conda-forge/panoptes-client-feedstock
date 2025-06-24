@@ -33,9 +33,11 @@ requirements:
 
 tests:
   - python:
-      pip_check: true
-      python_version: ${{ python_min }}.*
       imports: panoptes_client
+      pip_check: true
+      python_version:
+        - ${{ python_min }}.*
+        - 3.13.*
   - requirements:
       run:
         - pytest-cov
