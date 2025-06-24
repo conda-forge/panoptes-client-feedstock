@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: 1.7.0
+  version: "1.7.1"
 
 package:
   name: panoptes-client
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/panoptes-client/panoptes_client-${{ version }}.tar.gz
-  sha256: d9f5f402396c25125b93ffcdc05b9983a8c9e956a589236c1cd8ba8b2989f86d
+  sha256: 325b67673c5bfa63651db00b62c3c9c0a617b6a44a55a453151082d96fe27b2b
 
 build:
   number: 0
